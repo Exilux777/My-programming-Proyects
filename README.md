@@ -1,0 +1,3 @@
+# My-programming-Proyects
+Este es un repositorio publico con contribuciones sencillas en programacion, son proyectos personales sin un proposito realmente grande,
+unicamente el apoyo a personas iniciando en la programacion o como ayuda propia para repaso, sin más que decir bienvenido al repositorio...
